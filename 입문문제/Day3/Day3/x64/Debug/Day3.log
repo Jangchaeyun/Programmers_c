@@ -1,0 +1,7 @@
+﻿  Find the remainder.c
+  Finding the median.c
+  Finding the most frequent value.c
+  코드를 생성하고 있습니다...
+Finding the median.obj : error LNK2005: solution이(가) Find the remainder.obj에 이미 정의되어 있습니다.
+Finding the most frequent value.obj : error LNK2005: solution이(가) Find the remainder.obj에 이미 정의되어 있습니다.
+D:\취업준비\코팅테스트\프로그래머스\C언어\입문문제\Day3\x64\Debug\Day3.exe : fatal error LNK1169: 여러 번 정의된 기호가 있습니다.
