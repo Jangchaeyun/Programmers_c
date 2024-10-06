@@ -1,0 +1,5 @@
+﻿  Print a right triangle.c
+D:\취업준비\코팅테스트\프로그래머스\C언어\입문문제\Day6\Print a right triangle.c(14,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Reverse string.c
+D:\취업준비\코팅테스트\프로그래머스\C언어\입문문제\Day6\Reverse string.c(7,12): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Day6.vcxproj -> D:\취업준비\코팅테스트\프로그래머스\C언어\입문문제\Day6\x64\Debug\Day6.exe
