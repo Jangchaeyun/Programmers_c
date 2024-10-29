@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\uCDE8\uC5C5\uC900\uBE44\\\uCF54\uD305\uD14C\uC2A4\uD2B8\\\uD504\uB85C\uADF8\uB798\uBA38\uC2A4\\C\uC5B8\uC5B4\\\uAE30\uCD08\uBB38\uC81C\\Day4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6BE8D7EB-40C2-4549-8ABE-48C5F38B722B}|Day4.vcxproj|D:\\\uCDE8\uC5C5\uC900\uBE44\\\uCF54\uD305\uD14C\uC2A4\uD2B8\\\uD504\uB85C\uADF8\uB798\uBA38\uC2A4\\C\uC5B8\uC5B4\\\uAE30\uCD08\uBB38\uC81C\\Day4\\Return different values \u200B\u200Bdepending on flag.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6BE8D7EB-40C2-4549-8ABE-48C5F38B722B}|Day4.vcxproj|solutionrelative:Return different values \u200B\u200Bdepending on flag.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BE8D7EB-40C2-4549-8ABE-48C5F38B722B}|Day4.vcxproj|D:\\\uCDE8\uC5C5\uC900\uBE44\\\uCF54\uD305\uD14C\uC2A4\uD2B8\\\uD504\uB85C\uADF8\uB798\uBA38\uC2A4\\C\uC5B8\uC5B4\\\uAE30\uCD08\uBB38\uC81C\\Day4\\Condition string.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6BE8D7EB-40C2-4549-8ABE-48C5F38B722B}|Day4.vcxproj|solutionrelative:Condition string.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BE8D7EB-40C2-4549-8ABE-48C5F38B722B}|Day4.vcxproj|D:\\\uCDE8\uC5C5\uC900\uBE44\\\uCF54\uD305\uD14C\uC2A4\uD2B8\\\uD504\uB85C\uADF8\uB798\uBA38\uC2A4\\C\uC5B8\uC5B4\\\uAE30\uCD08\uBB38\uC81C\\Day4\\Common multiple.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6BE8D7EB-40C2-4549-8ABE-48C5F38B722B}|Day4.vcxproj|solutionrelative:Common multiple.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BE8D7EB-40C2-4549-8ABE-48C5F38B722B}|Day4.vcxproj|D:\\\uCDE8\uC5C5\uC900\uBE44\\\uCF54\uD305\uD14C\uC2A4\uD2B8\\\uD504\uB85C\uADF8\uB798\uBA38\uC2A4\\C\uC5B8\uC5B4\\\uAE30\uCD08\uBB38\uC81C\\Day4\\Return different values \u200B\u200Bdepending on odd or even.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6BE8D7EB-40C2-4549-8ABE-48C5F38B722B}|Day4.vcxproj|solutionrelative:Return different values \u200B\u200Bdepending on odd or even.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Return different values \u200B\u200Bdepending on flag.c",
+              "DocumentMoniker": "D:\\\uCDE8\uC5C5\uC900\uBE44\\\uCF54\uD305\uD14C\uC2A4\uD2B8\\\uD504\uB85C\uADF8\uB798\uBA38\uC2A4\\C\uC5B8\uC5B4\\\uAE30\uCD08\uBB38\uC81C\\Day4\\Return different values \u200B\u200Bdepending on flag.c",
+              "RelativeDocumentMoniker": "Return different values \u200B\u200Bdepending on flag.c",
+              "ToolTip": "D:\\\uCDE8\uC5C5\uC900\uBE44\\\uCF54\uD305\uD14C\uC2A4\uD2B8\\\uD504\uB85C\uADF8\uB798\uBA38\uC2A4\\C\uC5B8\uC5B4\\\uAE30\uCD08\uBB38\uC81C\\Day4\\Return different values \u200B\u200Bdepending on flag.c",
+              "RelativeToolTip": "Return different values \u200B\u200Bdepending on flag.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-10-29T00:55:29.315Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Condition string.c",
+              "DocumentMoniker": "D:\\\uCDE8\uC5C5\uC900\uBE44\\\uCF54\uD305\uD14C\uC2A4\uD2B8\\\uD504\uB85C\uADF8\uB798\uBA38\uC2A4\\C\uC5B8\uC5B4\\\uAE30\uCD08\uBB38\uC81C\\Day4\\Condition string.c",
+              "RelativeDocumentMoniker": "Condition string.c",
+              "ToolTip": "D:\\\uCDE8\uC5C5\uC900\uBE44\\\uCF54\uD305\uD14C\uC2A4\uD2B8\\\uD504\uB85C\uADF8\uB798\uBA38\uC2A4\\C\uC5B8\uC5B4\\\uAE30\uCD08\uBB38\uC81C\\Day4\\Condition string.c",
+              "RelativeToolTip": "Condition string.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-10-29T00:43:00.518Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Return different values \u200B\u200Bdepending on odd or even.c",
+              "DocumentMoniker": "D:\\\uCDE8\uC5C5\uC900\uBE44\\\uCF54\uD305\uD14C\uC2A4\uD2B8\\\uD504\uB85C\uADF8\uB798\uBA38\uC2A4\\C\uC5B8\uC5B4\\\uAE30\uCD08\uBB38\uC81C\\Day4\\Return different values \u200B\u200Bdepending on odd or even.c",
+              "RelativeDocumentMoniker": "Return different values \u200B\u200Bdepending on odd or even.c",
+              "ToolTip": "D:\\\uCDE8\uC5C5\uC900\uBE44\\\uCF54\uD305\uD14C\uC2A4\uD2B8\\\uD504\uB85C\uADF8\uB798\uBA38\uC2A4\\C\uC5B8\uC5B4\\\uAE30\uCD08\uBB38\uC81C\\Day4\\Return different values \u200B\u200Bdepending on odd or even.c",
+              "RelativeToolTip": "Return different values \u200B\u200Bdepending on odd or even.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-10-29T00:38:22.284Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Common multiple.c",
+              "DocumentMoniker": "D:\\\uCDE8\uC5C5\uC900\uBE44\\\uCF54\uD305\uD14C\uC2A4\uD2B8\\\uD504\uB85C\uADF8\uB798\uBA38\uC2A4\\C\uC5B8\uC5B4\\\uAE30\uCD08\uBB38\uC81C\\Day4\\Common multiple.c",
+              "RelativeDocumentMoniker": "Common multiple.c",
+              "ToolTip": "D:\\\uCDE8\uC5C5\uC900\uBE44\\\uCF54\uD305\uD14C\uC2A4\uD2B8\\\uD504\uB85C\uADF8\uB798\uBA38\uC2A4\\C\uC5B8\uC5B4\\\uAE30\uCD08\uBB38\uC81C\\Day4\\Common multiple.c",
+              "RelativeToolTip": "Common multiple.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-10-29T00:31:50.725Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
