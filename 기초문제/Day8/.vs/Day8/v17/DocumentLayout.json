@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\uCDE8\uC5C5\uC900\uBE44\\\uCF54\uD305\uD14C\uC2A4\uD2B8\\\uD504\uB85C\uADF8\uB798\uBA38\uC2A4\\C\uC5B8\uC5B4\\\uAE30\uCD08\uBB38\uC81C\\Day8\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FACB9E06-657D-4716-A533-193366A8C7D6}|Day8.vcxproj|D:\\\uCDE8\uC5C5\uC900\uBE44\\\uCF54\uD305\uD14C\uC2A4\uD2B8\\\uD504\uB85C\uADF8\uB798\uBA38\uC2A4\\C\uC5B8\uC5B4\\\uAE30\uCD08\uBB38\uC81C\\Day8\\Flip a string multiple times.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FACB9E06-657D-4716-A533-193366A8C7D6}|Day8.vcxproj|solutionrelative:Flip a string multiple times.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FACB9E06-657D-4716-A533-193366A8C7D6}|Day8.vcxproj|D:\\\uCDE8\uC5C5\uC900\uBE44\\\uCF54\uD305\uD14C\uC2A4\uD2B8\\\uD504\uB85C\uADF8\uB798\uBA38\uC2A4\\C\uC5B8\uC5B4\\\uAE30\uCD08\uBB38\uC81C\\Day8\\remainder when divided by 9.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FACB9E06-657D-4716-A533-193366A8C7D6}|Day8.vcxproj|solutionrelative:remainder when divided by 9.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Flip a string multiple times.c",
+              "DocumentMoniker": "D:\\\uCDE8\uC5C5\uC900\uBE44\\\uCF54\uD305\uD14C\uC2A4\uD2B8\\\uD504\uB85C\uADF8\uB798\uBA38\uC2A4\\C\uC5B8\uC5B4\\\uAE30\uCD08\uBB38\uC81C\\Day8\\Flip a string multiple times.c",
+              "RelativeDocumentMoniker": "Flip a string multiple times.c",
+              "ToolTip": "D:\\\uCDE8\uC5C5\uC900\uBE44\\\uCF54\uD305\uD14C\uC2A4\uD2B8\\\uD504\uB85C\uADF8\uB798\uBA38\uC2A4\\C\uC5B8\uC5B4\\\uAE30\uCD08\uBB38\uC81C\\Day8\\Flip a string multiple times.c",
+              "RelativeToolTip": "Flip a string multiple times.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-11-02T01:49:56.024Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "remainder when divided by 9.c",
+              "DocumentMoniker": "D:\\\uCDE8\uC5C5\uC900\uBE44\\\uCF54\uD305\uD14C\uC2A4\uD2B8\\\uD504\uB85C\uADF8\uB798\uBA38\uC2A4\\C\uC5B8\uC5B4\\\uAE30\uCD08\uBB38\uC81C\\Day8\\remainder when divided by 9.c",
+              "RelativeDocumentMoniker": "remainder when divided by 9.c",
+              "ToolTip": "D:\\\uCDE8\uC5C5\uC900\uBE44\\\uCF54\uD305\uD14C\uC2A4\uD2B8\\\uD504\uB85C\uADF8\uB798\uBA38\uC2A4\\C\uC5B8\uC5B4\\\uAE30\uCD08\uBB38\uC81C\\Day8\\remainder when divided by 9.c",
+              "RelativeToolTip": "remainder when divided by 9.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-11-02T01:45:38.9Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
