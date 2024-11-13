@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\zzang\\source\\repos\\Day19\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C0EBDB12-BA67-44D1-AD36-5BFFFB555D54}|Day19.vcxproj|C:\\Users\\zzang\\source\\repos\\Day19\\Randomly select K numbers.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C0EBDB12-BA67-44D1-AD36-5BFFFB555D54}|Day19.vcxproj|solutionrelative:Randomly select K numbers.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0EBDB12-BA67-44D1-AD36-5BFFFB555D54}|Day19.vcxproj|C:\\Users\\zzang\\source\\repos\\Day19\\Creating an Array 6.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C0EBDB12-BA67-44D1-AD36-5BFFFB555D54}|Day19.vcxproj|solutionrelative:Creating an Array 6.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0EBDB12-BA67-44D1-AD36-5BFFFB555D54}|Day19.vcxproj|C:\\Users\\zzang\\source\\repos\\Day19\\Adding and removing from an empty array.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C0EBDB12-BA67-44D1-AD36-5BFFFB555D54}|Day19.vcxproj|solutionrelative:Adding and removing from an empty array.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0EBDB12-BA67-44D1-AD36-5BFFFB555D54}|Day19.vcxproj|C:\\Users\\zzang\\source\\repos\\Day19\\Add as many elements as an array.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C0EBDB12-BA67-44D1-AD36-5BFFFB555D54}|Day19.vcxproj|solutionrelative:Add as many elements as an array.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Randomly select K numbers.c",
+              "DocumentMoniker": "C:\\Users\\zzang\\source\\repos\\Day19\\Randomly select K numbers.c",
+              "RelativeDocumentMoniker": "Randomly select K numbers.c",
+              "ToolTip": "C:\\Users\\zzang\\source\\repos\\Day19\\Randomly select K numbers.c",
+              "RelativeToolTip": "Randomly select K numbers.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-11-13T00:26:08.204Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Creating an Array 6.c",
+              "DocumentMoniker": "C:\\Users\\zzang\\source\\repos\\Day19\\Creating an Array 6.c",
+              "RelativeDocumentMoniker": "Creating an Array 6.c",
+              "ToolTip": "C:\\Users\\zzang\\source\\repos\\Day19\\Creating an Array 6.c",
+              "RelativeToolTip": "Creating an Array 6.c",
+              "ViewState": "AgIAAAYAAAAAAAAAAAA1wCoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-11-13T00:20:18.323Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Adding and removing from an empty array.c",
+              "DocumentMoniker": "C:\\Users\\zzang\\source\\repos\\Day19\\Adding and removing from an empty array.c",
+              "RelativeDocumentMoniker": "Adding and removing from an empty array.c",
+              "ToolTip": "C:\\Users\\zzang\\source\\repos\\Day19\\Adding and removing from an empty array.c",
+              "RelativeToolTip": "Adding and removing from an empty array.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-11-13T00:12:23.788Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Add as many elements as an array.c",
+              "DocumentMoniker": "C:\\Users\\zzang\\source\\repos\\Day19\\Add as many elements as an array.c",
+              "RelativeDocumentMoniker": "Add as many elements as an array.c",
+              "ToolTip": "C:\\Users\\zzang\\source\\repos\\Day19\\Add as many elements as an array.c",
+              "RelativeToolTip": "Add as many elements as an array.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-11-12T23:44:05.971Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
