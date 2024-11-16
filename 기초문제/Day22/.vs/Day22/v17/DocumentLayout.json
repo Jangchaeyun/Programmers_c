@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\uCDE8\uC5C5\uC900\uBE44\\\uCF54\uD305\uD14C\uC2A4\uD2B8\\\uD504\uB85C\uADF8\uB798\uBA38\uC2A4\\C\uC5B8\uC5B4\\\uAE30\uCD08\uBB38\uC81C\\Day22\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2E5192B-CA08-4416-BB3D-5BC0FC46DB52}|Day22.vcxproj|D:\\\uCDE8\uC5C5\uC900\uBE44\\\uCF54\uD305\uD14C\uC2A4\uD2B8\\\uD504\uB85C\uADF8\uB798\uBA38\uC2A4\\C\uC5B8\uC5B4\\\uAE30\uCD08\uBB38\uC81C\\Day22\\Check if it is a substring.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2E5192B-CA08-4416-BB3D-5BC0FC46DB52}|Day22.vcxproj|solutionrelative:Check if it is a substring.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2E5192B-CA08-4416-BB3D-5BC0FC46DB52}|Day22.vcxproj|D:\\\uCDE8\uC5C5\uC900\uBE44\\\uCF54\uD305\uD14C\uC2A4\uD2B8\\\uD504\uB85C\uADF8\uB798\uBA38\uC2A4\\C\uC5B8\uC5B4\\\uAE30\uCD08\uBB38\uC81C\\Day22\\Deleting elements from an array.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2E5192B-CA08-4416-BB3D-5BC0FC46DB52}|Day22.vcxproj|solutionrelative:Deleting elements from an array.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2E5192B-CA08-4416-BB3D-5BC0FC46DB52}|Day22.vcxproj|D:\\\uCDE8\uC5C5\uC900\uBE44\\\uCF54\uD305\uD14C\uC2A4\uD2B8\\\uD504\uB85C\uADF8\uB798\uBA38\uC2A4\\C\uC5B8\uC5B4\\\uAE30\uCD08\uBB38\uC81C\\Day22\\Convert to string.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2E5192B-CA08-4416-BB3D-5BC0FC46DB52}|Day22.vcxproj|solutionrelative:Convert to string.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2E5192B-CA08-4416-BB3D-5BC0FC46DB52}|Day22.vcxproj|D:\\\uCDE8\uC5C5\uC900\uBE44\\\uCF54\uD305\uD14C\uC2A4\uD2B8\\\uD504\uB85C\uADF8\uB798\uBA38\uC2A4\\C\uC5B8\uC5B4\\\uAE30\uCD08\uBB38\uC81C\\Day22\\sum of two numbers.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2E5192B-CA08-4416-BB3D-5BC0FC46DB52}|Day22.vcxproj|solutionrelative:sum of two numbers.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2E5192B-CA08-4416-BB3D-5BC0FC46DB52}|Day22.vcxproj|D:\\\uCDE8\uC5C5\uC900\uBE44\\\uCF54\uD305\uD14C\uC2A4\uD2B8\\\uD504\uB85C\uADF8\uB798\uBA38\uC2A4\\C\uC5B8\uC5B4\\\uAE30\uCD08\uBB38\uC81C\\Day22\\0 detach.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2E5192B-CA08-4416-BB3D-5BC0FC46DB52}|Day22.vcxproj|solutionrelative:0 detach.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Check if it is a substring.c",
+              "DocumentMoniker": "D:\\\uCDE8\uC5C5\uC900\uBE44\\\uCF54\uD305\uD14C\uC2A4\uD2B8\\\uD504\uB85C\uADF8\uB798\uBA38\uC2A4\\C\uC5B8\uC5B4\\\uAE30\uCD08\uBB38\uC81C\\Day22\\Check if it is a substring.c",
+              "RelativeDocumentMoniker": "Check if it is a substring.c",
+              "ToolTip": "D:\\\uCDE8\uC5C5\uC900\uBE44\\\uCF54\uD305\uD14C\uC2A4\uD2B8\\\uD504\uB85C\uADF8\uB798\uBA38\uC2A4\\C\uC5B8\uC5B4\\\uAE30\uCD08\uBB38\uC81C\\Day22\\Check if it is a substring.c",
+              "RelativeToolTip": "Check if it is a substring.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-11-16T01:30:15.246Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Deleting elements from an array.c",
+              "DocumentMoniker": "D:\\\uCDE8\uC5C5\uC900\uBE44\\\uCF54\uD305\uD14C\uC2A4\uD2B8\\\uD504\uB85C\uADF8\uB798\uBA38\uC2A4\\C\uC5B8\uC5B4\\\uAE30\uCD08\uBB38\uC81C\\Day22\\Deleting elements from an array.c",
+              "RelativeDocumentMoniker": "Deleting elements from an array.c",
+              "ToolTip": "D:\\\uCDE8\uC5C5\uC900\uBE44\\\uCF54\uD305\uD14C\uC2A4\uD2B8\\\uD504\uB85C\uADF8\uB798\uBA38\uC2A4\\C\uC5B8\uC5B4\\\uAE30\uCD08\uBB38\uC81C\\Day22\\Deleting elements from an array.c",
+              "RelativeToolTip": "Deleting elements from an array.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-11-16T01:17:58.964Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Convert to string.c",
+              "DocumentMoniker": "D:\\\uCDE8\uC5C5\uC900\uBE44\\\uCF54\uD305\uD14C\uC2A4\uD2B8\\\uD504\uB85C\uADF8\uB798\uBA38\uC2A4\\C\uC5B8\uC5B4\\\uAE30\uCD08\uBB38\uC81C\\Day22\\Convert to string.c",
+              "RelativeDocumentMoniker": "Convert to string.c",
+              "ToolTip": "D:\\\uCDE8\uC5C5\uC900\uBE44\\\uCF54\uD305\uD14C\uC2A4\uD2B8\\\uD504\uB85C\uADF8\uB798\uBA38\uC2A4\\C\uC5B8\uC5B4\\\uAE30\uCD08\uBB38\uC81C\\Day22\\Convert to string.c",
+              "RelativeToolTip": "Convert to string.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-11-16T01:13:12.587Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "sum of two numbers.c",
+              "DocumentMoniker": "D:\\\uCDE8\uC5C5\uC900\uBE44\\\uCF54\uD305\uD14C\uC2A4\uD2B8\\\uD504\uB85C\uADF8\uB798\uBA38\uC2A4\\C\uC5B8\uC5B4\\\uAE30\uCD08\uBB38\uC81C\\Day22\\sum of two numbers.c",
+              "RelativeDocumentMoniker": "sum of two numbers.c",
+              "ToolTip": "D:\\\uCDE8\uC5C5\uC900\uBE44\\\uCF54\uD305\uD14C\uC2A4\uD2B8\\\uD504\uB85C\uADF8\uB798\uBA38\uC2A4\\C\uC5B8\uC5B4\\\uAE30\uCD08\uBB38\uC81C\\Day22\\sum of two numbers.c",
+              "RelativeToolTip": "sum of two numbers.c",
+              "ViewState": "AgIAAAgAAAAAAAAAAAA1wCwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-11-16T00:59:30.28Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "0 detach.c",
+              "DocumentMoniker": "D:\\\uCDE8\uC5C5\uC900\uBE44\\\uCF54\uD305\uD14C\uC2A4\uD2B8\\\uD504\uB85C\uADF8\uB798\uBA38\uC2A4\\C\uC5B8\uC5B4\\\uAE30\uCD08\uBB38\uC81C\\Day22\\0 detach.c",
+              "RelativeDocumentMoniker": "0 detach.c",
+              "ToolTip": "D:\\\uCDE8\uC5C5\uC900\uBE44\\\uCF54\uD305\uD14C\uC2A4\uD2B8\\\uD504\uB85C\uADF8\uB798\uBA38\uC2A4\\C\uC5B8\uC5B4\\\uAE30\uCD08\uBB38\uC81C\\Day22\\0 detach.c",
+              "RelativeToolTip": "0 detach.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-11-16T00:54:42.194Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
