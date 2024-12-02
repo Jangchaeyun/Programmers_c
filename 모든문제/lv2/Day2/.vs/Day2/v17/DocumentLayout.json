@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\uCDE8\uC5C5\uC900\uBE44\\\uCF54\uD305\uD14C\uC2A4\uD2B8\\\uD504\uB85C\uADF8\uB798\uBA38\uC2A4\\C\uC5B8\uC5B4\\\uBAA8\uB4E0\uBB38\uC81C\\lv2\\Day2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2425B30F-0EEC-4FDC-8AF9-FC830CAD4F6A}|Day2.vcxproj|D:\\\uCDE8\uC5C5\uC900\uBE44\\\uCF54\uD305\uD14C\uC2A4\uD2B8\\\uD504\uB85C\uADF8\uB798\uBA38\uC2A4\\C\uC5B8\uC5B4\\\uBAA8\uB4E0\uBB38\uC81C\\lv2\\Day2\\Billiards practice.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2425B30F-0EEC-4FDC-8AF9-FC830CAD4F6A}|Day2.vcxproj|solutionrelative:Billiards practice.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2425B30F-0EEC-4FDC-8AF9-FC830CAD4F6A}|Day2.vcxproj|D:\\\uCDE8\uC5C5\uC900\uBE44\\\uCF54\uD305\uD14C\uC2A4\uD2B8\\\uD504\uB85C\uADF8\uB798\uBA38\uC2A4\\C\uC5B8\uC5B4\\\uBAA8\uB4E0\uBB38\uC81C\\lv2\\Day2\\Ricochet Robot.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2425B30F-0EEC-4FDC-8AF9-FC830CAD4F6A}|Day2.vcxproj|solutionrelative:Ricochet Robot.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2425B30F-0EEC-4FDC-8AF9-FC830CAD4F6A}|Day2.vcxproj|D:\\\uCDE8\uC5C5\uC900\uBE44\\\uCF54\uD305\uD14C\uC2A4\uD2B8\\\uD504\uB85C\uADF8\uB798\uBA38\uC2A4\\C\uC5B8\uC5B4\\\uBAA8\uB4E0\uBB38\uC81C\\lv2\\Day2\\Mining Mining.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2425B30F-0EEC-4FDC-8AF9-FC830CAD4F6A}|Day2.vcxproj|solutionrelative:Mining Mining.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2425B30F-0EEC-4FDC-8AF9-FC830CAD4F6A}|Day2.vcxproj|D:\\\uCDE8\uC5C5\uC900\uBE44\\\uCF54\uD305\uD14C\uC2A4\uD2B8\\\uD504\uB85C\uADF8\uB798\uBA38\uC2A4\\C\uC5B8\uC5B4\\\uBAA8\uB4E0\uBB38\uC81C\\lv2\\Day2\\Progress on the assignment.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2425B30F-0EEC-4FDC-8AF9-FC830CAD4F6A}|Day2.vcxproj|solutionrelative:Progress on the assignment.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2425B30F-0EEC-4FDC-8AF9-FC830CAD4F6A}|Day2.vcxproj|D:\\\uCDE8\uC5C5\uC900\uBE44\\\uCF54\uD305\uD14C\uC2A4\uD2B8\\\uD504\uB85C\uADF8\uB798\uBA38\uC2A4\\C\uC5B8\uC5B4\\\uBAA8\uB4E0\uBB38\uC81C\\lv2\\Day2\\sum of consecutive subsequences.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2425B30F-0EEC-4FDC-8AF9-FC830CAD4F6A}|Day2.vcxproj|solutionrelative:sum of consecutive subsequences.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Billiards practice.c",
+              "DocumentMoniker": "D:\\\uCDE8\uC5C5\uC900\uBE44\\\uCF54\uD305\uD14C\uC2A4\uD2B8\\\uD504\uB85C\uADF8\uB798\uBA38\uC2A4\\C\uC5B8\uC5B4\\\uBAA8\uB4E0\uBB38\uC81C\\lv2\\Day2\\Billiards practice.c",
+              "RelativeDocumentMoniker": "Billiards practice.c",
+              "ToolTip": "D:\\\uCDE8\uC5C5\uC900\uBE44\\\uCF54\uD305\uD14C\uC2A4\uD2B8\\\uD504\uB85C\uADF8\uB798\uBA38\uC2A4\\C\uC5B8\uC5B4\\\uBAA8\uB4E0\uBB38\uC81C\\lv2\\Day2\\Billiards practice.c",
+              "RelativeToolTip": "Billiards practice.c",
+              "ViewState": "AgIAADAAAAAAAAAAAAAkwEcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-12-02T10:11:12.219Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Ricochet Robot.c",
+              "DocumentMoniker": "D:\\\uCDE8\uC5C5\uC900\uBE44\\\uCF54\uD305\uD14C\uC2A4\uD2B8\\\uD504\uB85C\uADF8\uB798\uBA38\uC2A4\\C\uC5B8\uC5B4\\\uBAA8\uB4E0\uBB38\uC81C\\lv2\\Day2\\Ricochet Robot.c",
+              "RelativeDocumentMoniker": "Ricochet Robot.c",
+              "ToolTip": "D:\\\uCDE8\uC5C5\uC900\uBE44\\\uCF54\uD305\uD14C\uC2A4\uD2B8\\\uD504\uB85C\uADF8\uB798\uBA38\uC2A4\\C\uC5B8\uC5B4\\\uBAA8\uB4E0\uBB38\uC81C\\lv2\\Day2\\Ricochet Robot.c",
+              "RelativeToolTip": "Ricochet Robot.c",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAuwFoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-12-02T09:54:29.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Mining Mining.c",
+              "DocumentMoniker": "D:\\\uCDE8\uC5C5\uC900\uBE44\\\uCF54\uD305\uD14C\uC2A4\uD2B8\\\uD504\uB85C\uADF8\uB798\uBA38\uC2A4\\C\uC5B8\uC5B4\\\uBAA8\uB4E0\uBB38\uC81C\\lv2\\Day2\\Mining Mining.c",
+              "RelativeDocumentMoniker": "Mining Mining.c",
+              "ToolTip": "D:\\\uCDE8\uC5C5\uC900\uBE44\\\uCF54\uD305\uD14C\uC2A4\uD2B8\\\uD504\uB85C\uADF8\uB798\uBA38\uC2A4\\C\uC5B8\uC5B4\\\uBAA8\uB4E0\uBB38\uC81C\\lv2\\Day2\\Mining Mining.c",
+              "RelativeToolTip": "Mining Mining.c",
+              "ViewState": "AgIAADAAAAAAAAAAAAAuwEgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-12-02T09:39:22.572Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Progress on the assignment.c",
+              "DocumentMoniker": "D:\\\uCDE8\uC5C5\uC900\uBE44\\\uCF54\uD305\uD14C\uC2A4\uD2B8\\\uD504\uB85C\uADF8\uB798\uBA38\uC2A4\\C\uC5B8\uC5B4\\\uBAA8\uB4E0\uBB38\uC81C\\lv2\\Day2\\Progress on the assignment.c",
+              "RelativeDocumentMoniker": "Progress on the assignment.c",
+              "ToolTip": "D:\\\uCDE8\uC5C5\uC900\uBE44\\\uCF54\uD305\uD14C\uC2A4\uD2B8\\\uD504\uB85C\uADF8\uB798\uBA38\uC2A4\\C\uC5B8\uC5B4\\\uBAA8\uB4E0\uBB38\uC81C\\lv2\\Day2\\Progress on the assignment.c",
+              "RelativeToolTip": "Progress on the assignment.c",
+              "ViewState": "AgIAACsAAAAAAAAAAAAuwEMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-12-02T09:17:09.664Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "sum of consecutive subsequences.c",
+              "DocumentMoniker": "D:\\\uCDE8\uC5C5\uC900\uBE44\\\uCF54\uD305\uD14C\uC2A4\uD2B8\\\uD504\uB85C\uADF8\uB798\uBA38\uC2A4\\C\uC5B8\uC5B4\\\uBAA8\uB4E0\uBB38\uC81C\\lv2\\Day2\\sum of consecutive subsequences.c",
+              "RelativeDocumentMoniker": "sum of consecutive subsequences.c",
+              "ToolTip": "D:\\\uCDE8\uC5C5\uC900\uBE44\\\uCF54\uD305\uD14C\uC2A4\uD2B8\\\uD504\uB85C\uADF8\uB798\uBA38\uC2A4\\C\uC5B8\uC5B4\\\uBAA8\uB4E0\uBB38\uC81C\\lv2\\Day2\\sum of consecutive subsequences.c",
+              "RelativeToolTip": "sum of consecutive subsequences.c",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAuwCEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-12-02T09:06:47.861Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

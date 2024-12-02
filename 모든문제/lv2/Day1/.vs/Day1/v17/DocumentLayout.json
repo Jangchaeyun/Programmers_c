@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\uCDE8\uC5C5\uC900\uBE44\\\uCF54\uD305\uD14C\uC2A4\uD2B8\\\uD504\uB85C\uADF8\uB798\uBA38\uC2A4\\C\uC5B8\uC5B4\\\uBAA8\uB4E0\uBB38\uC81C\\lv2\\Day1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9580BC0D-110F-4644-91E7-8271B24B31FE}|Day1.vcxproj|D:\\\uCDE8\uC5C5\uC900\uBE44\\\uCF54\uD305\uD14C\uC2A4\uD2B8\\\uD504\uB85C\uADF8\uB798\uBA38\uC2A4\\C\uC5B8\uC5B4\\\uBAA8\uB4E0\uBB38\uC81C\\lv2\\Day1\\pair of integers between two circles.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9580BC0D-110F-4644-91E7-8271B24B31FE}|Day1.vcxproj|solutionrelative:pair of integers between two circles.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9580BC0D-110F-4644-91E7-8271B24B31FE}|Day1.vcxproj|D:\\\uCDE8\uC5C5\uC900\uBE44\\\uCF54\uD305\uD14C\uC2A4\uD2B8\\\uD504\uB85C\uADF8\uB798\uBA38\uC2A4\\C\uC5B8\uC5B4\\\uBAA8\uB4E0\uBB38\uC81C\\lv2\\Day1\\Interception system.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9580BC0D-110F-4644-91E7-8271B24B31FE}|Day1.vcxproj|solutionrelative:Interception system.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9580BC0D-110F-4644-91E7-8271B24B31FE}|Day1.vcxproj|D:\\\uCDE8\uC5C5\uC900\uBE44\\\uCF54\uD305\uD14C\uC2A4\uD2B8\\\uD504\uB85C\uADF8\uB798\uBA38\uC2A4\\C\uC5B8\uC5B4\\\uBAA8\uB4E0\uBB38\uC81C\\lv2\\Day1\\analog clock.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9580BC0D-110F-4644-91E7-8271B24B31FE}|Day1.vcxproj|solutionrelative:analog clock.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9580BC0D-110F-4644-91E7-8271B24B31FE}|Day1.vcxproj|D:\\\uCDE8\uC5C5\uC900\uBE44\\\uCF54\uD305\uD14C\uC2A4\uD2B8\\\uD504\uB85C\uADF8\uB798\uBA38\uC2A4\\C\uC5B8\uC5B4\\\uBAA8\uB4E0\uBB38\uC81C\\lv2\\Day1\\Oil Drilling.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9580BC0D-110F-4644-91E7-8271B24B31FE}|Day1.vcxproj|solutionrelative:Oil Drilling.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9580BC0D-110F-4644-91E7-8271B24B31FE}|Day1.vcxproj|D:\\\uCDE8\uC5C5\uC900\uBE44\\\uCF54\uD305\uD14C\uC2A4\uD2B8\\\uD504\uB85C\uADF8\uB798\uBA38\uC2A4\\C\uC5B8\uC5B4\\\uBAA8\uB4E0\uBB38\uC81C\\lv2\\Day1\\Finding the Risk of Collision.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9580BC0D-110F-4644-91E7-8271B24B31FE}|Day1.vcxproj|solutionrelative:Finding the Risk of Collision.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "pair of integers between two circles.c",
+              "DocumentMoniker": "D:\\\uCDE8\uC5C5\uC900\uBE44\\\uCF54\uD305\uD14C\uC2A4\uD2B8\\\uD504\uB85C\uADF8\uB798\uBA38\uC2A4\\C\uC5B8\uC5B4\\\uBAA8\uB4E0\uBB38\uC81C\\lv2\\Day1\\pair of integers between two circles.c",
+              "RelativeDocumentMoniker": "pair of integers between two circles.c",
+              "ToolTip": "D:\\\uCDE8\uC5C5\uC900\uBE44\\\uCF54\uD305\uD14C\uC2A4\uD2B8\\\uD504\uB85C\uADF8\uB798\uBA38\uC2A4\\C\uC5B8\uC5B4\\\uBAA8\uB4E0\uBB38\uC81C\\lv2\\Day1\\pair of integers between two circles.c",
+              "RelativeToolTip": "pair of integers between two circles.c",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABIAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-12-01T02:29:11.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Interception system.c",
+              "DocumentMoniker": "D:\\\uCDE8\uC5C5\uC900\uBE44\\\uCF54\uD305\uD14C\uC2A4\uD2B8\\\uD504\uB85C\uADF8\uB798\uBA38\uC2A4\\C\uC5B8\uC5B4\\\uBAA8\uB4E0\uBB38\uC81C\\lv2\\Day1\\Interception system.c",
+              "RelativeDocumentMoniker": "Interception system.c",
+              "ToolTip": "D:\\\uCDE8\uC5C5\uC900\uBE44\\\uCF54\uD305\uD14C\uC2A4\uD2B8\\\uD504\uB85C\uADF8\uB798\uBA38\uC2A4\\C\uC5B8\uC5B4\\\uBAA8\uB4E0\uBB38\uC81C\\lv2\\Day1\\Interception system.c",
+              "RelativeToolTip": "Interception system.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAA1wB0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-12-01T02:15:41.385Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "analog clock.c",
+              "DocumentMoniker": "D:\\\uCDE8\uC5C5\uC900\uBE44\\\uCF54\uD305\uD14C\uC2A4\uD2B8\\\uD504\uB85C\uADF8\uB798\uBA38\uC2A4\\C\uC5B8\uC5B4\\\uBAA8\uB4E0\uBB38\uC81C\\lv2\\Day1\\analog clock.c",
+              "RelativeDocumentMoniker": "analog clock.c",
+              "ToolTip": "D:\\\uCDE8\uC5C5\uC900\uBE44\\\uCF54\uD305\uD14C\uC2A4\uD2B8\\\uD504\uB85C\uADF8\uB798\uBA38\uC2A4\\C\uC5B8\uC5B4\\\uBAA8\uB4E0\uBB38\uC81C\\lv2\\Day1\\analog clock.c",
+              "RelativeToolTip": "analog clock.c",
+              "ViewState": "AgIAADAAAAAAAAAAAAA1wE0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-12-01T01:58:48.293Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Oil Drilling.c",
+              "DocumentMoniker": "D:\\\uCDE8\uC5C5\uC900\uBE44\\\uCF54\uD305\uD14C\uC2A4\uD2B8\\\uD504\uB85C\uADF8\uB798\uBA38\uC2A4\\C\uC5B8\uC5B4\\\uBAA8\uB4E0\uBB38\uC81C\\lv2\\Day1\\Oil Drilling.c",
+              "RelativeDocumentMoniker": "Oil Drilling.c",
+              "ToolTip": "D:\\\uCDE8\uC5C5\uC900\uBE44\\\uCF54\uD305\uD14C\uC2A4\uD2B8\\\uD504\uB85C\uADF8\uB798\uBA38\uC2A4\\C\uC5B8\uC5B4\\\uBAA8\uB4E0\uBB38\uC81C\\lv2\\Day1\\Oil Drilling.c",
+              "RelativeToolTip": "Oil Drilling.c",
+              "ViewState": "AgIAAF4AAAAAAAAAAAA1wHsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-12-01T01:55:51.186Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Finding the Risk of Collision.c",
+              "DocumentMoniker": "D:\\\uCDE8\uC5C5\uC900\uBE44\\\uCF54\uD305\uD14C\uC2A4\uD2B8\\\uD504\uB85C\uADF8\uB798\uBA38\uC2A4\\C\uC5B8\uC5B4\\\uBAA8\uB4E0\uBB38\uC81C\\lv2\\Day1\\Finding the Risk of Collision.c",
+              "RelativeDocumentMoniker": "Finding the Risk of Collision.c",
+              "ToolTip": "D:\\\uCDE8\uC5C5\uC900\uBE44\\\uCF54\uD305\uD14C\uC2A4\uD2B8\\\uD504\uB85C\uADF8\uB798\uBA38\uC2A4\\C\uC5B8\uC5B4\\\uBAA8\uB4E0\uBB38\uC81C\\lv2\\Day1\\Finding the Risk of Collision.c",
+              "RelativeToolTip": "Finding the Risk of Collision.c",
+              "ViewState": "AgIAADIAAAAAAAAAAAA1wE8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-12-01T01:21:03.724Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
