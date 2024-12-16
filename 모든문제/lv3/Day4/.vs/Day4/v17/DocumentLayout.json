@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\uCDE8\uC5C5\uC900\uBE44\\\uCF54\uD305\uD14C\uC2A4\uD2B8\\\uD504\uB85C\uADF8\uB798\uBA38\uC2A4\\C\uC5B8\uC5B4\\\uBAA8\uB4E0\uBB38\uC81C\\lv3\\Day4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{209D8826-6ADA-449F-9B6A-F434EA90F43B}|Day4.vcxproj|D:\\\uCDE8\uC5C5\uC900\uBE44\\\uCF54\uD305\uD14C\uC2A4\uD2B8\\\uD504\uB85C\uADF8\uB798\uBA38\uC2A4\\C\uC5B8\uC5B4\\\uBAA8\uB4E0\uBB38\uC81C\\lv3\\Day4\\Archaeology\u0027s greatest discovery.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{209D8826-6ADA-449F-9B6A-F434EA90F43B}|Day4.vcxproj|solutionrelative:Archaeology\u0027s greatest discovery.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{209D8826-6ADA-449F-9B6A-F434EA90F43B}|Day4.vcxproj|D:\\\uCDE8\uC5C5\uC900\uBE44\\\uCF54\uD305\uD14C\uC2A4\uD2B8\\\uD504\uB85C\uADF8\uB798\uBA38\uC2A4\\C\uC5B8\uC5B4\\\uBAA8\uB4E0\uBB38\uC81C\\lv3\\Day4\\2D coin flip.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{209D8826-6ADA-449F-9B6A-F434EA90F43B}|Day4.vcxproj|solutionrelative:2D coin flip.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{209D8826-6ADA-449F-9B6A-F434EA90F43B}|Day4.vcxproj|D:\\\uCDE8\uC5C5\uC900\uBE44\\\uCF54\uD305\uD14C\uC2A4\uD2B8\\\uD504\uB85C\uADF8\uB798\uBA38\uC2A4\\C\uC5B8\uC5B4\\\uBAA8\uB4E0\uBB38\uC81C\\lv3\\Day4\\Return to the unit.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{209D8826-6ADA-449F-9B6A-F434EA90F43B}|Day4.vcxproj|solutionrelative:Return to the unit.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{209D8826-6ADA-449F-9B6A-F434EA90F43B}|Day4.vcxproj|D:\\\uCDE8\uC5C5\uC900\uBE44\\\uCF54\uD305\uD14C\uC2A4\uD2B8\\\uD504\uB85C\uADF8\uB798\uBA38\uC2A4\\C\uC5B8\uC5B4\\\uBAA8\uB4E0\uBB38\uC81C\\lv3\\Day4\\lighthouse.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{209D8826-6ADA-449F-9B6A-F434EA90F43B}|Day4.vcxproj|solutionrelative:lighthouse.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{209D8826-6ADA-449F-9B6A-F434EA90F43B}|Day4.vcxproj|D:\\\uCDE8\uC5C5\uC900\uBE44\\\uCF54\uD305\uD14C\uC2A4\uD2B8\\\uD504\uB85C\uADF8\uB798\uBA38\uC2A4\\C\uC5B8\uC5B4\\\uBAA8\uB4E0\uBB38\uC81C\\lv3\\Day4\\Number Typing Contest.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{209D8826-6ADA-449F-9B6A-F434EA90F43B}|Day4.vcxproj|solutionrelative:Number Typing Contest.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Archaeology\u0027s greatest discovery.c",
+              "DocumentMoniker": "D:\\\uCDE8\uC5C5\uC900\uBE44\\\uCF54\uD305\uD14C\uC2A4\uD2B8\\\uD504\uB85C\uADF8\uB798\uBA38\uC2A4\\C\uC5B8\uC5B4\\\uBAA8\uB4E0\uBB38\uC81C\\lv3\\Day4\\Archaeology\u0027s greatest discovery.c",
+              "RelativeDocumentMoniker": "Archaeology\u0027s greatest discovery.c",
+              "ToolTip": "D:\\\uCDE8\uC5C5\uC900\uBE44\\\uCF54\uD305\uD14C\uC2A4\uD2B8\\\uD504\uB85C\uADF8\uB798\uBA38\uC2A4\\C\uC5B8\uC5B4\\\uBAA8\uB4E0\uBB38\uC81C\\lv3\\Day4\\Archaeology\u0027s greatest discovery.c",
+              "RelativeToolTip": "Archaeology\u0027s greatest discovery.c",
+              "ViewState": "AgIAAD0AAAAAAAAAAADwv1cAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-12-16T02:33:54.252Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "2D coin flip.c",
+              "DocumentMoniker": "D:\\\uCDE8\uC5C5\uC900\uBE44\\\uCF54\uD305\uD14C\uC2A4\uD2B8\\\uD504\uB85C\uADF8\uB798\uBA38\uC2A4\\C\uC5B8\uC5B4\\\uBAA8\uB4E0\uBB38\uC81C\\lv3\\Day4\\2D coin flip.c",
+              "RelativeDocumentMoniker": "2D coin flip.c",
+              "ToolTip": "D:\\\uCDE8\uC5C5\uC900\uBE44\\\uCF54\uD305\uD14C\uC2A4\uD2B8\\\uD504\uB85C\uADF8\uB798\uBA38\uC2A4\\C\uC5B8\uC5B4\\\uBAA8\uB4E0\uBB38\uC81C\\lv3\\Day4\\2D coin flip.c",
+              "RelativeToolTip": "2D coin flip.c",
+              "ViewState": "AgIAADEAAAAAAAAAAAAIwEwAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-12-16T02:20:43.166Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Return to the unit.c",
+              "DocumentMoniker": "D:\\\uCDE8\uC5C5\uC900\uBE44\\\uCF54\uD305\uD14C\uC2A4\uD2B8\\\uD504\uB85C\uADF8\uB798\uBA38\uC2A4\\C\uC5B8\uC5B4\\\uBAA8\uB4E0\uBB38\uC81C\\lv3\\Day4\\Return to the unit.c",
+              "RelativeDocumentMoniker": "Return to the unit.c",
+              "ToolTip": "D:\\\uCDE8\uC5C5\uC900\uBE44\\\uCF54\uD305\uD14C\uC2A4\uD2B8\\\uD504\uB85C\uADF8\uB798\uBA38\uC2A4\\C\uC5B8\uC5B4\\\uBAA8\uB4E0\uBB38\uC81C\\lv3\\Day4\\Return to the unit.c",
+              "RelativeToolTip": "Return to the unit.c",
+              "ViewState": "AgIAADUAAAAAAAAAAAAIwFAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-12-16T02:06:12.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "lighthouse.c",
+              "DocumentMoniker": "D:\\\uCDE8\uC5C5\uC900\uBE44\\\uCF54\uD305\uD14C\uC2A4\uD2B8\\\uD504\uB85C\uADF8\uB798\uBA38\uC2A4\\C\uC5B8\uC5B4\\\uBAA8\uB4E0\uBB38\uC81C\\lv3\\Day4\\lighthouse.c",
+              "RelativeDocumentMoniker": "lighthouse.c",
+              "ToolTip": "D:\\\uCDE8\uC5C5\uC900\uBE44\\\uCF54\uD305\uD14C\uC2A4\uD2B8\\\uD504\uB85C\uADF8\uB798\uBA38\uC2A4\\C\uC5B8\uC5B4\\\uBAA8\uB4E0\uBB38\uC81C\\lv3\\Day4\\lighthouse.c",
+              "RelativeToolTip": "lighthouse.c",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAIwCkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-12-16T01:53:56.17Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Number Typing Contest.c",
+              "DocumentMoniker": "D:\\\uCDE8\uC5C5\uC900\uBE44\\\uCF54\uD305\uD14C\uC2A4\uD2B8\\\uD504\uB85C\uADF8\uB798\uBA38\uC2A4\\C\uC5B8\uC5B4\\\uBAA8\uB4E0\uBB38\uC81C\\lv3\\Day4\\Number Typing Contest.c",
+              "RelativeDocumentMoniker": "Number Typing Contest.c",
+              "ToolTip": "D:\\\uCDE8\uC5C5\uC900\uBE44\\\uCF54\uD305\uD14C\uC2A4\uD2B8\\\uD504\uB85C\uADF8\uB798\uBA38\uC2A4\\C\uC5B8\uC5B4\\\uBAA8\uB4E0\uBB38\uC81C\\lv3\\Day4\\Number Typing Contest.c",
+              "RelativeToolTip": "Number Typing Contest.c",
+              "ViewState": "AgIAADUAAAAAAAAAAAAIwFAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-12-16T01:30:28.65Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
