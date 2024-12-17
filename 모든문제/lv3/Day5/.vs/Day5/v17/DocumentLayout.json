@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\uCDE8\uC5C5\uC900\uBE44\\\uCF54\uD305\uD14C\uC2A4\uD2B8\\\uD504\uB85C\uADF8\uB798\uBA38\uC2A4\\C\uC5B8\uC5B4\\\uBAA8\uB4E0\uBB38\uC81C\\lv3\\Day5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{03B99A9E-A741-4934-9975-80E7AB3A0C98}|Day5.vcxproj|D:\\\uCDE8\uC5C5\uC900\uBE44\\\uCF54\uD305\uD14C\uC2A4\uD2B8\\\uD504\uB85C\uADF8\uB798\uBA38\uC2A4\\C\uC5B8\uC5B4\\\uBAA8\uB4E0\uBB38\uC81C\\lv3\\Day5\\Pick up items.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{03B99A9E-A741-4934-9975-80E7AB3A0C98}|Day5.vcxproj|solutionrelative:Pick up items.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03B99A9E-A741-4934-9975-80E7AB3A0C98}|Day5.vcxproj|D:\\\uCDE8\uC5C5\uC900\uBE44\\\uCF54\uD305\uD14C\uC2A4\uD2B8\\\uD504\uB85C\uADF8\uB798\uBA38\uC2A4\\C\uC5B8\uC5B4\\\uBAA8\uB4E0\uBB38\uC81C\\lv3\\Day5\\Sheep and wolf.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{03B99A9E-A741-4934-9975-80E7AB3A0C98}|Day5.vcxproj|solutionrelative:Sheep and wolf.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03B99A9E-A741-4934-9975-80E7AB3A0C98}|Day5.vcxproj|D:\\\uCDE8\uC5C5\uC900\uBE44\\\uCF54\uD305\uD14C\uC2A4\uD2B8\\\uD504\uB85C\uADF8\uB798\uBA38\uC2A4\\C\uC5B8\uC5B4\\\uBAA8\uB4E0\uBB38\uC81C\\lv3\\Day5\\countdown.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{03B99A9E-A741-4934-9975-80E7AB3A0C98}|Day5.vcxproj|solutionrelative:countdown.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03B99A9E-A741-4934-9975-80E7AB3A0C98}|Day5.vcxproj|D:\\\uCDE8\uC5C5\uC900\uBE44\\\uCF54\uD305\uD14C\uC2A4\uD2B8\\\uD504\uB85C\uADF8\uB798\uBA38\uC2A4\\C\uC5B8\uC5B4\\\uBAA8\uB4E0\uBB38\uC81C\\lv3\\Day5\\Disappearing foothold.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{03B99A9E-A741-4934-9975-80E7AB3A0C98}|Day5.vcxproj|solutionrelative:Disappearing foothold.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03B99A9E-A741-4934-9975-80E7AB3A0C98}|Day5.vcxproj|D:\\\uCDE8\uC5C5\uC900\uBE44\\\uCF54\uD305\uD14C\uC2A4\uD2B8\\\uD504\uB85C\uADF8\uB798\uBA38\uC2A4\\C\uC5B8\uC5B4\\\uBAA8\uB4E0\uBB38\uC81C\\lv3\\Day5\\Deciding on a hiking course.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{03B99A9E-A741-4934-9975-80E7AB3A0C98}|Day5.vcxproj|solutionrelative:Deciding on a hiking course.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Pick up items.c",
+              "DocumentMoniker": "D:\\\uCDE8\uC5C5\uC900\uBE44\\\uCF54\uD305\uD14C\uC2A4\uD2B8\\\uD504\uB85C\uADF8\uB798\uBA38\uC2A4\\C\uC5B8\uC5B4\\\uBAA8\uB4E0\uBB38\uC81C\\lv3\\Day5\\Pick up items.c",
+              "RelativeDocumentMoniker": "Pick up items.c",
+              "ToolTip": "D:\\\uCDE8\uC5C5\uC900\uBE44\\\uCF54\uD305\uD14C\uC2A4\uD2B8\\\uD504\uB85C\uADF8\uB798\uBA38\uC2A4\\C\uC5B8\uC5B4\\\uBAA8\uB4E0\uBB38\uC81C\\lv3\\Day5\\Pick up items.c",
+              "RelativeToolTip": "Pick up items.c",
+              "ViewState": "AgIAACMAAAAAAAAAAADwvz0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-12-17T00:42:06.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Sheep and wolf.c",
+              "DocumentMoniker": "D:\\\uCDE8\uC5C5\uC900\uBE44\\\uCF54\uD305\uD14C\uC2A4\uD2B8\\\uD504\uB85C\uADF8\uB798\uBA38\uC2A4\\C\uC5B8\uC5B4\\\uBAA8\uB4E0\uBB38\uC81C\\lv3\\Day5\\Sheep and wolf.c",
+              "RelativeDocumentMoniker": "Sheep and wolf.c",
+              "ToolTip": "D:\\\uCDE8\uC5C5\uC900\uBE44\\\uCF54\uD305\uD14C\uC2A4\uD2B8\\\uD504\uB85C\uADF8\uB798\uBA38\uC2A4\\C\uC5B8\uC5B4\\\uBAA8\uB4E0\uBB38\uC81C\\lv3\\Day5\\Sheep and wolf.c",
+              "RelativeToolTip": "Sheep and wolf.c",
+              "ViewState": "AgIAADMAAAAAAAAAAAAIwE4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-12-17T00:35:02.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Disappearing foothold.c",
+              "DocumentMoniker": "D:\\\uCDE8\uC5C5\uC900\uBE44\\\uCF54\uD305\uD14C\uC2A4\uD2B8\\\uD504\uB85C\uADF8\uB798\uBA38\uC2A4\\C\uC5B8\uC5B4\\\uBAA8\uB4E0\uBB38\uC81C\\lv3\\Day5\\Disappearing foothold.c",
+              "RelativeDocumentMoniker": "Disappearing foothold.c",
+              "ToolTip": "D:\\\uCDE8\uC5C5\uC900\uBE44\\\uCF54\uD305\uD14C\uC2A4\uD2B8\\\uD504\uB85C\uADF8\uB798\uBA38\uC2A4\\C\uC5B8\uC5B4\\\uBAA8\uB4E0\uBB38\uC81C\\lv3\\Day5\\Disappearing foothold.c",
+              "RelativeToolTip": "Disappearing foothold.c",
+              "ViewState": "AgIAACgAAAAAAAAAAAAIwEMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-12-17T00:22:52.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Deciding on a hiking course.c",
+              "DocumentMoniker": "D:\\\uCDE8\uC5C5\uC900\uBE44\\\uCF54\uD305\uD14C\uC2A4\uD2B8\\\uD504\uB85C\uADF8\uB798\uBA38\uC2A4\\C\uC5B8\uC5B4\\\uBAA8\uB4E0\uBB38\uC81C\\lv3\\Day5\\Deciding on a hiking course.c",
+              "RelativeDocumentMoniker": "Deciding on a hiking course.c",
+              "ToolTip": "D:\\\uCDE8\uC5C5\uC900\uBE44\\\uCF54\uD305\uD14C\uC2A4\uD2B8\\\uD504\uB85C\uADF8\uB798\uBA38\uC2A4\\C\uC5B8\uC5B4\\\uBAA8\uB4E0\uBB38\uC81C\\lv3\\Day5\\Deciding on a hiking course.c",
+              "RelativeToolTip": "Deciding on a hiking course.c",
+              "ViewState": "AgIAAGIAAAAAAAAAAAAIwH0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-12-17T00:14:37.709Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "countdown.c",
+              "DocumentMoniker": "D:\\\uCDE8\uC5C5\uC900\uBE44\\\uCF54\uD305\uD14C\uC2A4\uD2B8\\\uD504\uB85C\uADF8\uB798\uBA38\uC2A4\\C\uC5B8\uC5B4\\\uBAA8\uB4E0\uBB38\uC81C\\lv3\\Day5\\countdown.c",
+              "RelativeDocumentMoniker": "countdown.c",
+              "ToolTip": "D:\\\uCDE8\uC5C5\uC900\uBE44\\\uCF54\uD305\uD14C\uC2A4\uD2B8\\\uD504\uB85C\uADF8\uB798\uBA38\uC2A4\\C\uC5B8\uC5B4\\\uBAA8\uB4E0\uBB38\uC81C\\lv3\\Day5\\countdown.c",
+              "RelativeToolTip": "countdown.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-12-17T00:05:15.972Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
